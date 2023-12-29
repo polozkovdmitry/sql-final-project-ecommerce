@@ -27,6 +27,8 @@
 Логическую схему см. в файле `schema.png`. 
 (NB! атрибут `sku.warehouse_id_list` должен иметь тип `integer[]` (массив), а не `integer`)
 
+![conc_schema](https://github.com/polozkovdmitry/sql-final-project-ecommerce/blob/main/conc_schema.png)
+
 # Нормальные формы
 
 Recap требований:
